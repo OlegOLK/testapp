@@ -1,15 +1,19 @@
 {
-  "name": "test",
+  "name": "radiks-blockstack",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "^3.9.3",
+    "@date-io/date-fns": "^1.3.5",
+    "@material-ui/core": "^4.0.0-rc.0",
+    "@material-ui/icons": "^3.0.2",
+    "@material-ui/pickers": "^3.0.0-rc.0",
+    "date-fns": "^2.0.0-alpha.27",
     "radiks": "^0.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.0",
-    "reactn": "^2.0.0",
+    "react-scripts": "3.0.1",
+    "reactn": "^2.0.1",
     "uuid": "^3.3.2"
   },
   "scripts": {

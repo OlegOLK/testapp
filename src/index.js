@@ -1,30 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import App from './App';
 import * as serviceWorker from './serviceWorker';
-import Application from './Application';
 import { setGlobal } from 'reactn';
 
 setGlobal({
-    rule: {
-        conditions: [],
-        actions: []
+    userRules:[],
+    newRule:{
+        actions:[],
+        conditions:[]
     },
-    userProfile:{
-        avatarUrl: '',
-        userName: '',
-    },
-    ruleCreation:{
-        isAnyActiveAction:false,
-        isAnyActiveCondition: false,
-        isRuleCompleted: false
-    },
-    JCreateRule: {
-        activeStep: 0
-    }
+    userProfile:{}
 })
 
-ReactDOM.render(<Application />, document.getElementById('root'));
+
+ReactDOM.render(<App />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
