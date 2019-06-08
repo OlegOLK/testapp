@@ -1,0 +1,14 @@
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\bin\Debug\netcoreapp2.2\BlockstackCommunicator.deps.json
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\bin\Debug\netcoreapp2.2\BlockstackCommunicator.runtimeconfig.json
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\bin\Debug\netcoreapp2.2\BlockstackCommunicator.runtimeconfig.dev.json
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\bin\Debug\netcoreapp2.2\BlockstackCommunicator.dll
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\bin\Debug\netcoreapp2.2\BlockstackCommunicator.pdb
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\obj\Debug\netcoreapp2.2\BlockstackCommunicator.csprojAssemblyReference.cache
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\obj\Debug\netcoreapp2.2\BlockstackCommunicator.csproj.CoreCompileInputs.cache
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\obj\Debug\netcoreapp2.2\BlockstackCommunicator.RazorAssemblyInfo.cache
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\obj\Debug\netcoreapp2.2\BlockstackCommunicator.RazorAssemblyInfo.cs
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\obj\Debug\netcoreapp2.2\BlockstackCommunicator.AssemblyInfoInputs.cache
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\obj\Debug\netcoreapp2.2\BlockstackCommunicator.AssemblyInfo.cs
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\obj\Debug\netcoreapp2.2\BlockstackCommunicator.RazorTargetAssemblyInfo.cache
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\obj\Debug\netcoreapp2.2\BlockstackCommunicator.dll
+C:\Repository\radiks-blockstack\server\BlockstackCommunicator\BlockstackCommunicator\obj\Debug\netcoreapp2.2\BlockstackCommunicator.pdb
